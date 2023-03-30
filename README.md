@@ -12,6 +12,6 @@ Data set includes data of all pandemic details.
 - Date
 - Location
 
-[Dataset:]()
+Try this [Dataset:](https://github.com/khushiyadav2022/Pandemic_details_of-_world-dataset/blob/7bde444a7546dc120c4e42b07166931e7459970e/pandemic_details_of_world.csv)
 
-[Kggle Link]()
+[Kggle Link](kaggle datasets download -d khushiyadav2022/pandemic-details-of-world)
