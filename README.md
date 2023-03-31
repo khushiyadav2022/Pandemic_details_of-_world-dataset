@@ -4,7 +4,7 @@ I have created a dataset on kaggle related to pandemic details of world
 **About Dataset:**
 Overview of globalization and disease transmission. Here is the list of the largest known epidemics and pandemics caused by an infectious disease. An epidemic is the rapid spread of disease to a large number of people in a given population within a short period of time.
 
-[reference:](https://en.wikipedia.org/wiki/List_of_epidemics)
+[reference link:](https://en.wikipedia.org/wiki/List_of_epidemics)
 
 Data set includes data of all pandemic details.
 **Data Columns:**
