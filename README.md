@@ -15,5 +15,7 @@ Data set includes data of all pandemic details.
 - Location
 
 Try this [Dataset:](https://github.com/khushiyadav2022/Pandemic_details_of-_world-dataset/blob/7bde444a7546dc120c4e42b07166931e7459970e/pandemic_details_of_world.csv)
+
 how you create this dataset- [Notebook is here]()
+
 [Kggle Link](https://www.kaggle.com/datasets/khushiyadav2022/pandemic-details-of-world)
