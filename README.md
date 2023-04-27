@@ -1,5 +1,6 @@
 # Pandemic_details_of-_world-dataset
 I have created a dataset on kaggle related to pandemic details of world
+![](https://eco-cdn.iqpc.com/eco/images/channel_content/images/covid-pandemic-report-supply-chain-disruption.webp)
 
 **About Dataset:**
 Overview of globalization and disease transmission. Here is the list of the largest known epidemics and pandemics caused by an infectious disease. An epidemic is the rapid spread of disease to a large number of people in a given population within a short period of time.
